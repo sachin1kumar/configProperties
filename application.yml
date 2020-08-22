@@ -1,0 +1,8 @@
+myCustomMessage: Hello from config server
+myList:
+  values: one,two,three
+
+  db:
+    name: "sachin config server"
+    pass: "admin"
+    port: 8080
